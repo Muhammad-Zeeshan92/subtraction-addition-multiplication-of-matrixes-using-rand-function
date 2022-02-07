@@ -1,1 +1,2 @@
 # subtraction-addition-multiplication-of-matrixes-using-rand-function
+A program, which initializes randomly two matrixes and calculates the sum, subtraction and multiplication of them and prints the result to the standard output device. The program should also determine the dimensions of matrixes randomly, but it should take care that generated matrixes have proper dimensions to go  through basic operations.
